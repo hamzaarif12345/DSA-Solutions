@@ -166,6 +166,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
@@ -288,6 +289,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
