@@ -14,6 +14,7 @@ public:
         bool overlap=true;
         if((ax1 < bx1) and (ax2 < bx1) ||(bx1 < ax1) and (bx2 < ax1)) overlap=false;
         if((ay1 < by1) and (ay2 < by1) ||(by1 < ay1) and (by2 < ay1)) overlap=false;
+        if(!overlap) return ans;
         vector<int> x = {ax1, ax2, bx1, bx2};
         vector<int> y = {by1, by2, ay1, ay2};
         sort(x.begin(),x.end()); 
