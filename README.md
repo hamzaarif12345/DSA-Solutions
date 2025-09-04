@@ -54,6 +54,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
@@ -148,6 +149,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0670-maximum-swap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
