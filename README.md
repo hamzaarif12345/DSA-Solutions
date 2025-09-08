@@ -175,6 +175,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
