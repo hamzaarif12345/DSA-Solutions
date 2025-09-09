@@ -14,6 +14,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -74,6 +75,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2048-build-array-from-permutation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -193,6 +195,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -279,6 +282,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
+| [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
