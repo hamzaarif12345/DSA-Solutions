@@ -10,6 +10,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0432-all-oone-data-structure](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
@@ -31,6 +32,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1524-string-matching-in-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -59,6 +61,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
