@@ -24,6 +24,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2685-first-completely-painted-row-or-column](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -58,6 +59,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +96,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
