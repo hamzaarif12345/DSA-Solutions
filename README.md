@@ -102,6 +102,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3429-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
@@ -192,6 +193,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
