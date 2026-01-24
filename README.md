@@ -78,6 +78,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -153,6 +154,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -160,6 +162,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -171,6 +174,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0670-maximum-swap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Heap (Priority Queue)
 |  |
