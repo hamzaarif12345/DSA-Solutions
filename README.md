@@ -69,6 +69,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1293-three-consecutive-odds) |
@@ -151,6 +152,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
