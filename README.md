@@ -26,6 +26,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3713-longest-balanced-substring-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -54,12 +55,14 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [3396-valid-word](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
+| [3713-longest-balanced-substring-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -339,4 +342,8 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
