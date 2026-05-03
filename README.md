@@ -252,6 +252,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0872-leaf-similar-trees](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -259,6 +260,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0872-leaf-similar-trees](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -275,6 +277,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0872-leaf-similar-trees](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Prefix Sum
