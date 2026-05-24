@@ -70,6 +70,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
+| [0994-rotting-oranges](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1200-minimum-absolute-difference) |
@@ -269,6 +270,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0994-rotting-oranges](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -311,6 +313,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
 | [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
