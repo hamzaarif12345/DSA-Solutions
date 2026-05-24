@@ -16,6 +16,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
@@ -133,6 +134,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1477-product-of-the-last-k-numbers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -187,6 +189,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -338,6 +341,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Ordered Set
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
