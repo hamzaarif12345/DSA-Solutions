@@ -212,6 +212,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
