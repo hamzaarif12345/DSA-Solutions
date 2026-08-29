@@ -51,6 +51,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2429-design-a-food-rating-system) |
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3396-valid-word](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3396-valid-word) |
@@ -247,6 +248,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
