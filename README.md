@@ -15,6 +15,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2428-equal-row-and-column-pairs) |
@@ -44,6 +45,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
@@ -85,6 +87,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
