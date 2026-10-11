@@ -108,6 +108,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -364,5 +365,6 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
