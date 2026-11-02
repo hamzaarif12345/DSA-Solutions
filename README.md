@@ -72,6 +72,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0135-candy](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [0994-rotting-oranges](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0994-rotting-oranges) |
@@ -164,6 +165,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0164-maximum-gap) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1253-sort-the-matrix-diagonally) |
@@ -211,6 +213,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0223-rectangle-area](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hamzaarif12345/DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
